@@ -1,3 +1,4 @@
+#include <bits/stdc++.h>   // uključuje sve standardne C++ biblioteke
 using namespace std;
 using ll = long long;
 
